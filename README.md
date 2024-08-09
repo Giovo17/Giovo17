@@ -8,7 +8,6 @@
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-96BE25?style=for-the-badge&logoColor=white&style=flat)
-![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![AI for Health](https://img.shields.io/badge/AI%20for%20Health-96BE25?style=for-the-badge&logoColor=white&style=flat)
 
 
@@ -28,7 +27,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&style=flat)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=flat)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=flat)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
