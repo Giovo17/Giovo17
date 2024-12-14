@@ -23,14 +23,16 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat)
-![HuggingFace libs](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&style=flat)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat)
+![transformers](https://img.shields.io/badge/-transformers-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&style=flat)
+![HuggingFace spaces](https://img.shields.io/badge/-HuggingFace_spaces-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat)
 <!--- ![DVC](https://img.shields.io/badge/DVC-%238857CC.svg?style=for-the-badge&style=flat) -->
 
